@@ -3,6 +3,7 @@
 This report, titled "Powracający klienci i SEO" (Returning Customers and SEO), presents a comprehensive analysis conducted from May 2020 to August 2022. It focuses on strategies for enhancing customer retention and optimizing SEO for products listed in the Google Merchant store.
 
 ### Results
+Achieved a 638% increase in views (from 8,300 to 61,947) and a 1158% rise in clicks month-over-month.
 ![AFTER](https://github.com/mateusz-stelmasiak/SEO-optimisation-report/assets/46268673/66e13aa6-1cb4-4b5d-b347-c2c4fcef4225)
 
 ## 2. SEO Optimization Techniques
